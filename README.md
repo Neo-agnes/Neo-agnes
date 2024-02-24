@@ -30,7 +30,7 @@
 
 ### Most Used Language
 ---
-![Stay-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-agnes&show_icons=true&theme=dark)  
+![Stay-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo-agnes&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-agnes&layout=compact)
 
 ### hist
 ---
